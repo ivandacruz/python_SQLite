@@ -14,6 +14,12 @@ A Tabela tera alguns campos:
     8° Campo Curso
     9° campo imagem
 
+Havera metodos que:
+    1° registra estudantes
+    2° remove estudantes
+    3° procura estudantes
+    4° atualiza cadastro de estudante
+
 #
 
 |Author| [ivanC_Dev](https://github.com/ivandacruz)|
