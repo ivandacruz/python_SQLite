@@ -3,6 +3,7 @@
 ## Sistema de Registros de Alunos
 
 A Tabela tera alguns campos:
+
     1° campo ID
     2° campo nome do Aluno
     3° campo Email
@@ -12,3 +13,8 @@ A Tabela tera alguns campos:
     7° Campo Endereço
     8° Campo Curso
     9° campo imagem
+
+#
+
+|Author| [ivanC_Dev](https://github.com/ivandacruz)|
+|--|--|
